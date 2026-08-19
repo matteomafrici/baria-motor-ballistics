@@ -1,0 +1,6 @@
+# Proprietary dataset - never commit raw data (tracesbar1.mat or CSV exports).
+data/*.mat
+data/*.csv
+
+# MATLAB autosave files.
+*.asv
